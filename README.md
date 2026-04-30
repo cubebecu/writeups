@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="300" align="center">
-<img src="raw/nvidia-core.png" width="100%" alt="RTX 3090 bare die">
+<img src="raw/nvidia-core2.jpg" width="100%" alt="RTX 3090 bare die">
 </td>
 <td valign="top">
 <h3><a href="gpu-service/">Bringing an Aftermarket RTX 3090 Back to Life</a></h3>
