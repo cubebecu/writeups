@@ -26,6 +26,7 @@ The card worked, but almost immediately I started noticing thermal throttling un
 ⚠️ Screws are tiny and will try to escape — keep them contained and labeled so you know where each one came from  
 ⚠️ Apply even tension on mounting screws when reassembling — uneven pressure can crack the GPU die  
 
+
 After carefully opening the card without disturbing the thermal pads, the root cause of the throttling was immediately confirmed: the thermal paste responsible for transferring heat from the GPU die to the heatsink was practically fossilized and no longer doing its job.
 
 The remaining components appeared to be in good shape. The thermal pads were in surprisingly good condition — undamaged and still pliable — so I did not replace them. There were no signs of PCB overheating, mechanical damage visible to the naked eye, suspicious-looking components, or liquid damage.
