@@ -1,7 +1,4 @@
-# Writeups
-Field notes on hardware, local ML, and building (or dissecting) things to understand them.
-
----
+![Writeups](raw/writeups_banner.svg)  
 
 <table width="100%">
 <tr>
