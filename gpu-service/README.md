@@ -4,7 +4,7 @@
 > TL;DR I bought a used RTX 3090 for local ML inference. It had severe thermal issues. Here's how I diagnosed, fixed, and verified it — with numbers.  
 Here is what I use it for: https://github.com/cubebecu/caption-engine
 
-<img src="raw/letthem.png" width="100%" title="Let them eat cake" alt="Let them eat cake">&nbsp;
+<img src="raw/letthem.jpg" width="100%" title="Let them eat cake" alt="Let them eat cake">&nbsp;
 
 In early 2026, the RTX 3090 remains one of the better options for local ML inference for those unwilling to sell a kidney. 24 GB of VRAM and 936 GB/s of memory bandwidth are sufficient for running reasonably useful quants of 20–30B parameter models. The only realistic way to get one is the secondary market.
 
