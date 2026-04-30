@@ -30,8 +30,10 @@ After carefully opening the card without disturbing the thermal pads, the root c
 
 The remaining components appeared to be in good shape. The thermal pads were in surprisingly good condition — undamaged and still pliable — so I did not replace them. There were no signs of PCB overheating, mechanical damage visible to the naked eye, suspicious-looking components, or liquid damage.
 
+<div style="display: flex; gap: 2%;">
 <img src="raw/core1.png" width="49%" title="Fossilized paste" alt="Fossilized paste">
 <img src="raw/core2.png" width="49%" title="Fossilized paste" alt="Fossilized paste">
+</div>
 
 The next step was carefully removing the old paste using isopropyl alcohol and preparing the surface for the new application. I also cleaned the memory chips and DrMOS with IPA.
 
@@ -39,8 +41,10 @@ The next step was carefully removing the old paste using isopropyl alcohol and p
 
 Then I applied fresh thermal paste to the die, aiming for an even, not-too-thick layer (key word: aiming).
 
+<div style="display: flex; gap: 2%;">
 <img src="raw/core4.png" width="49%" title="Kryonaut thermal paste" alt="Kryonaut thermal paste">
 <img src="raw/core5.png" width="49%" title="Repasted core" alt="Repasted core">
+</div>
 
 Finally, I reassembled the card — being careful not to damage the thermal pads and to apply even tension on the mounting screws to avoid cracking the die.
 
@@ -48,8 +52,10 @@ Finally, I reassembled the card — being careful not to damage the thermal pads
 
 ### Comparison of HWiNFO64 sensor readings before and after the repaste:
 
+<div style="display: flex; gap: 2%;">
 <img src="raw/hw-before.png" width="49%" title="HWiNFO64 before" alt="HWiNFO64 before">
 <img src="raw/hw_after.png" width="49%" title="HWiNFO64 after" alt="HWiNFO64 after">
+</div>
 
 &nbsp;&nbsp;
 | Parameter | Before | After | Delta |
