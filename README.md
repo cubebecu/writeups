@@ -16,7 +16,7 @@ Bought a used RTX 3090 for local ML inference. It throttled on day one. Diagnose
 <tr>
 <td width="300" align="center">
 <img src="raw/opencode.png" width="260" alt="Local LLM eval"><br>
-⊕<br>
++<br>
 <img src="raw/qwen.png" width="260" alt="Qwen">
 </td>
 <td valign="top">
