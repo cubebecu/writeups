@@ -4,8 +4,6 @@
 > TL;DR I bought a used RTX 3090 for local ML inference. It had severe thermal issues. Here's how I diagnosed, fixed, and verified it — with numbers.  
 Here is what I use it for: https://github.com/cubebecu/caption-engine
 
-<img src="raw/letthem.jpg" width="100%" title="Let them eat cake" alt="Let them eat cake">&nbsp;
-
 In early 2026, the RTX 3090 remains one of the better options for local ML inference for those unwilling to sell a kidney. 24 GB of VRAM and 936 GB/s of memory bandwidth are sufficient for running reasonably useful quants of 20–30B parameter models. The only realistic way to get one is the secondary market.
 
 The problem is that the majority of cards currently for sale have been running 24/7 at their limits and will need some service. I expected this going in. However, one hard limit I set for myself was: buy only from a reputable source — a business offering returns and a warranty — and I found one.
@@ -85,3 +83,5 @@ Finally, I reassembled the card — being careful not to damage the thermal pads
 ## Verdict
 
 Would I recommend buying a used RTX 3090 for local inference? Yes — with caveats. Buy from a seller offering returns, have tools and thermal paste ready, and go in expecting that a repaste may be needed. If the card throttles or runs hot, it's a solvable problem. The hardware is built to last; the thermal paste isn't.
+
+<img src="raw/letthem.jpg" width="100%" title="Let them eat cake" alt="Let them eat cake">&nbsp;
