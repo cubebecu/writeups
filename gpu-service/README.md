@@ -69,8 +69,8 @@ Finally, I reassembled the card — being careful not to damage the thermal pads
 | **GPU Clock** (current) | 1,500 MHz | 1,785 MHz | +285 MHz |
 | **GPU Clock** (max) | 1,950 MHz | 1,965 MHz | +15 MHz |
 | **GPU Power** (current) | 244.7 W | 324.0 W | +79.3 W |
-| **Performance Limit – Thermal** | ✅ Yes | ❌ No | ✔ resolved |
-| **Performance Limit – Power** | ❌ No | ✅ Yes | now power-limited |
+| **Performance Limit – Thermal** | Yes | No | resolved |
+| **Performance Limit – Power** | No | Yes | now power-limited |
 | **Total GPU Power [% TDP]** (current) | 70.7% | 89.9% | +19.2 pp |
 
 > ⚠️ **Memory Junction temperature:** The apparent increase is not a regression — before the repaste the card was thermal-throttling at reduced clocks, so VRAM was underutilized. 84°C is simply the correct full-load reading for GDDR6X on the 3090, well within memory chip 95°C rating.
