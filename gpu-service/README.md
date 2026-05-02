@@ -20,9 +20,11 @@ The card worked, but almost immediately I started noticing thermal throttling un
 - Isopropyl alcohol (IPA) — do not use any other alcohol, alcohol mixtures, or anything water-based; water damages PCB traces and other alcohols leave residue
 - Cotton buds
 
-⚠️ Never use "liquid metal" — it conducts electricity and will cause a short circuit if it migrates to nearby components  
-⚠️ Screws are tiny and will try to escape — keep them contained and labeled so you know where each one came from  
-⚠️ Apply even tension on mounting screws when reassembling — uneven pressure can crack the GPU die  
+## Dos and don'ts:
+
+- Never use "liquid metal" — it conducts electricity and will cause a short circuit if it migrates to nearby components  
+- Screws are tiny and will try to escape — keep them contained and labeled so you know where each one came from  
+- Apply even tension on mounting screws when reassembling — uneven pressure can crack the GPU die  
 
 
 After carefully opening the card without disturbing the thermal pads, the root cause of the throttling was immediately confirmed: the thermal paste responsible for transferring heat from the GPU die to the heatsink was practically fossilized and no longer doing its job.
