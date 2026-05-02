@@ -20,7 +20,7 @@ The card worked, but almost immediately I started noticing thermal throttling un
 - Isopropyl alcohol (IPA) — do not use any other alcohol, alcohol mixtures, or anything water-based; water damages PCB traces and other alcohols leave residue
 - Cotton buds
 
-## Dos and don'ts:
+### Dos and don'ts:
 
 - Never use "liquid metal" — it conducts electricity and will cause a short circuit if it migrates to nearby components  
 - Screws are tiny and will try to escape — keep them contained and labeled so you know where each one came from  
